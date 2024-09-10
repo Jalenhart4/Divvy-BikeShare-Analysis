@@ -15,7 +15,8 @@ The analysis involves:
 
 ### Data Acquisition
 
-The data for this analysis was obtained from the Cyclistic bike-share program. It includes detailed information on individual rides such as start and end times, starting and ending stations, rideable type (e.g., electric or classic bike), and rider type (either casual or member). The dataset spans from January 2023 to December 2023.
+The data for this analysis was obtained from the Cyclistic bike-share program. It includes detailed information on individual rides such as start and end times, starting and ending stations, rideable type (e.g., electric or classic bike), and rider type (either casual or member). The dataset spans from January 2023 to December 2023. You can access the monthly data in csv format here:
+- [Index of bucket "divvy-tripdata"](https://divvy-tripdata.s3.amazonaws.com/index.html)
 
 ### Data Preparation
 

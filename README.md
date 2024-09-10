@@ -71,6 +71,7 @@ After preparing the data, several analyses were performed to gain insights into 
 - **T-statistic**: -283.4034
 - **P-value**: 0.0000
 ### Exploratory Visualizations 
+Before creating the final visualizations in Power BI, I performed an Exploratory Data Analysis (EDA) using Python. This involved generating various plots and charts to better understand the data's structure, distribution, and key patterns. These Python visualizations were instrumental in guiding the development of the more refined and interactive visualizations in Power BI. The insights gained from the EDA served as the foundation for the final analysis and recommendations.
 - **Ride Length Distribution by Rider Type**: Boxplot showing distribution of ride lengths. 
 - **Average Ride Length by Time of Day**: Line plot of average ride length by hour. 
 - **Ride Counts by Time of Day**: Count plot illustrating ride frequencies. 

@@ -78,7 +78,7 @@ After preparing the data, several analyses were performed to gain insights into 
 - **Ride Time by Day of Week and Hour of Day**: Heatmap of average ride length. 
 - **Seasonal Trends in Ride Length**: Line plot of ride length by season.
 
-##Data interpretations and Insights
+## Data interpretations and Insights
 
 ### Understanding Rider Behavior
 

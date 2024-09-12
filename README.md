@@ -85,7 +85,7 @@ After completing the initial analysis in Python, I used Power BI to create inter
 
 ### Power BI Visualizations 
 - **Seasonal Ridership Trends**: 
-	- Description: This line chart compares the number of rides taken by casual riders and members across different seasons. The chart reveals that most rides, for both casual and member riders, occur during warmer seasons—spring, summer, and fall—with summer being the most popular. About a third of all rides in these warm seasons are from casual riders, while a higher proportion of winter rides come from members, indicating that members are more likely to ride year-round.
+	- Description: This bar chart compares the number of rides taken by casual riders and members across different seasons. The chart reveals that most rides, for both casual and member riders, occur during warmer seasons—spring, summer, and fall—with summer being the most popular. About a third of all rides in these warm seasons are from casual riders, while a higher proportion of winter rides come from members, indicating that members are more likely to ride year-round.
  <br/><br/>
 		![Seasonal Ridership Trends](https://github.com/Jalenhart4/Divvy-BikeShare-Analysis/blob/main/visualizations/power%20BI/Total_Rides_Per_Season.PNG) 
 - **Ride Frequency and Average Ride Time by Day of Week**: 

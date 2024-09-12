@@ -92,31 +92,37 @@ After completing the initial analysis in Python, I used Power BI to create inter
 	- Description: This bar chart breaks down the number of rides taken by casual riders and members on each day of the week. The data shows that member ridership peaks during the weekdays and tapers off on the weekends, while casual ridership does the opposite, peaking on Saturday. Interestingly, as the number of rides increases for members, their average ride time decreases. For casual riders, both the number of rides and the average ride time increase on the weekends, supporting the idea that casual riders use the service more for leisure.
  <br/><br/>
 	![Ride Frequency and Average Ride Time by Day of Wee](https://github.com/Jalenhart4/Divvy-BikeShare-Analysis/blob/main/visualizations/power%20BI/Ride_Frequency_and_Average_Ride_Time_by_Day_of_Week.PNG) 
+<br/><br/>
 - **Total Rides Per Hour**: 
 	- Description: This line chart illustrates the number of rides taken by casual riders and members at different hours of the day. Member ridership peaks sharply at 8 AM and again at 5 PM, suggesting that members use the service primarily for commuting to and from work. Casual ridership, on the other hand, gradually increases throughout the day, peaking at 5 PM, which suggests a more leisurely use of the service during the most active parts of the day.
  <br/><br/>
 	![Total Rides Per Hour](https://github.com/Jalenhart4/Divvy-BikeShare-Analysis/blob/main/visualizations/power%20BI/Total_Rides_Per_Hour.PNG) 
+<br/><br/>
 - **Average Ride Length by Time of Day**: 
 	- Description: This line chart compares the average ride length by time of day for casual riders and members. The average ride length for members remains consistent throughout the day and night, whereas for casual riders, ride length is shorter in the early morning, drastically increases around 9 AM, peaks at 11 AM, and then gradually decreases for the rest of the day. This further supports the idea that casual riders are using the service for recreational purposes.
    <br/><br/>
 	![Average Ride Length by Time of Day](https://github.com/Jalenhart4/Divvy-BikeShare-Analysis/blob/main/visualizations/power%20BI/Average_Ride_Length_By_Start_Hour.PNG) 
+<br/><br/>
 - **Average Ride Length by Day of Week and Start Hour**:
 	- Description: This heatmap shows average ride lengths by both the hour of the day and the day of the week. It reveals that shorter rides generally occur in the early morning hours (4-9 AM) during weekdays, while the longest rides are typically during the weekends, peaking at the most active times. With casual ridership spiking on the weekends, there's a clear correlation between an increase in casual riders and longer ride times, further reinforcing the idea that casual riders use the service for recreation.
    <br/><br/>
 	![Average Ride Length by Time of Day and Start Hour](https://github.com/Jalenhart4/Divvy-BikeShare-Analysis/blob/main/visualizations/power%20BI/Average_Ride_Length_By_Day_Of_Week_And_Start_Hour.PNG) 
+<br/><br/>
 - **Bike Type Preferences**: 
 	- Description: This chart highlights the preferences between classic bikes and electric bikes among casual riders and members. Members use both classic and electric bikes evenly. Casual riders, however, show a slight preference for electric bikes, using them about 1.25 times more often than classic bikes. This adds to the observation that casual riders tend to favor the convenience and fun of electric bikes for their recreational rides.
    <br/><br/>
 	![Bike Type Preferences by Rider Type](https://github.com/Jalenhart4/Divvy-BikeShare-Analysis/blob/main/visualizations/power%20BI/Bike_Type_Preferences.PNG)
+<br/><br/>
 - **Top Starting Stations**: 
 	- Description: This horizontal bar chart displays the top 10 starting stations used by both casual riders and members. The top four starting stations are dominated by casual riders, while the remaining stations are mainly used by members, with one exception. This suggests that casual riders prefer specific locations for recreational activities, while members are more evenly distributed across stations, likely using the service for commuting.
    <br/><br/>
 	![Top Starting Stations](https://github.com/Jalenhart4/Divvy-BikeShare-Analysis/blob/main/visualizations/power%20BI/Top_Ten_Starting_Stations.PNG) 
+<br/><br/>
 - **Map of Top 10 Starting Stations**: 
 	- Description: This map provides a geographical representation of the top 10 starting stations for both casual riders and members. The stations near lakes are predominantly used by casual riders, with significantly longer average ride lengths for this group. On the other hand, stations near business areas are primarily used by members. This visualization supports the idea that casual riders use the service for recreation, while members primarily use it for commuting purposes.
    <br/><br/>
 	![Map of Top 10 Starting Stations](https://github.com/Jalenhart4/Divvy-BikeShare-Analysis/blob/main/visualizations/power%20BI/Map_of_Top_Ten_Starting_Stations.PNG)
-
+<br/><br/>
 ## Data interpretations and Insights
 
 ### Understanding Rider Behavior
